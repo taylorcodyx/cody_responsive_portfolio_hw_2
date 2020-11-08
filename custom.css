@@ -1,0 +1,17 @@
+.navbar-brand {
+    color: #19A87D;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rebeccapurple;
+}
+
+h5 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
